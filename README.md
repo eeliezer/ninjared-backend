@@ -6,7 +6,7 @@ Este es el desarrollo de la API para el e-commerce **Red Ninja Collections**
 
 ## Documentación
 
-Para obtener mas información sobre el uso de la API puede ingresar al siguiente LINK:  [DOCUMENTACIÓN](https://documenter.getpostman.com/view/27995144/2s9Y5ZwhuV#af3bdceb-c20a-47c7-8cb8-ea66146c560a).
+Para obtener mas información sobre el uso de la API puede ingresar al siguiente LINK:  [DOCUMENTACIÓN](https://documenter.getpostman.com/view/27995144/2s9YJW5kZQ).
 
 
 ## Features
