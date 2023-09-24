@@ -19,14 +19,6 @@ Para obtener mas información sobre el uso de la API puede ingresar al siguiente
 - Crear órdenes
 - Verificar el estado de las órdenes
 
-## Deployment
-
-Para ejecutar este proyecto localmente
-
-```bash
-  npm run deploy
-```
-
 
 ## FAQ
 
