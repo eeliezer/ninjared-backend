@@ -13,6 +13,7 @@ Para obtener mas información sobre el uso de la API puede ingresar al siguiente
 
 - Inicio de sesión
 - Registro de usuarios
+- Cambiar contraseña
 - Registro de usuarios administradores
 - Panel de reportes para administradores
 - Crear órdenes
